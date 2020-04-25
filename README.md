@@ -1,2 +1,2 @@
-# FinancialCalculator
+# Financial Calculator
 Development cost android
